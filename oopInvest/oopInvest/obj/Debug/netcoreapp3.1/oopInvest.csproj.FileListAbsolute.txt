@@ -1,0 +1,13 @@
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.csprojAssemblyReference.cache
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.AssemblyInfoInputs.cache
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.AssemblyInfo.cs
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.csproj.CoreCompileInputs.cache
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.exe
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.deps.json
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.runtimeconfig.json
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.runtimeconfig.dev.json
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.dll
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.pdb
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.dll
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.pdb
+C:\Users\sergo\Desktop\хвосты\oopInvest\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.genruntimeconfig.cache

@@ -47,8 +47,16 @@ namespace oopInvest
         }
         public void SaleSecurities(int Index)
         {
-            _securities.RemoveAt(Index);
-            AddDateOfSale();
+            if (_securities.Count <= Index)
+            {
+                Console.WriteLine("Ценной бумаги не существует");
+                return;
+            }
+            else
+            {
+                _securities.RemoveAt(Index);
+                AddDateOfSale();
+            }
         }
 
         public void AddDateOfPurchase()
@@ -75,7 +83,7 @@ namespace oopInvest
             }
         }
 
-        public void Start() /*Для этого нужно было сделать отдельный класс, но чтобы соответствовать условиям - я сделал это тут*/
+        public void Start() 
         {
             Console.WriteLine("1. Клиенты, " +
                 "2. Ценные бумаги, " +
@@ -102,10 +110,11 @@ namespace oopInvest
 
                     Console.WriteLine("Добавлено.");
 
-                    Start();
+                    return;
                 }
                 if (Choise == 2)
                 {
+                    Console.WriteLine($"{_clients.Count} клиентов известно. (0-{_clients.Count - 1}) ");
                     Console.WriteLine("Введите номер клиента(Index): ");
 
                     int Index = Convert.ToInt32(Console.ReadLine());
@@ -116,13 +125,14 @@ namespace oopInvest
                     Console.WriteLine(GetClients(Index).GetAddress());
                     Console.WriteLine(GetClients(Index).GetPhone());
 
-                    Start();
+                    return;
                 }
                // else Start();
                 //Start();
             }
             if (Choise == 2)
             {
+                Console.WriteLine($"{_securities.Count} бумаг известно. (0-{_securities.Count - 1}) ");
                 Console.WriteLine("1. Получить данные ценной бумаги."
                     + " Введите индекс:");
                 int Index = Convert.ToInt32(Console.ReadLine());
@@ -132,7 +142,7 @@ namespace oopInvest
                 Console.WriteLine(GetSecurities(Index).GetScore());
                 Console.WriteLine(GetSecurities(Index).GetRevenueYear());
 
-                Start();
+                return;
             }
             if (Choise == 3)
             {
@@ -150,6 +160,7 @@ namespace oopInvest
                 }
                 if (Choise == 2)
                 {
+                    Console.WriteLine($"{_securities.Count} бумаг известно. (0-{_securities.Count - 1}) ");
                     Console.WriteLine("Введите индекс продаваемой ценной бумаги: ");
                     int Index = Convert.ToInt32(Console.ReadLine());
 
@@ -170,9 +181,9 @@ namespace oopInvest
                     Console.WriteLine("Даты продаж: ");
                     GetDateOfSale();
                 }
-               Start();
+                return;
             }
-            if (Choise >= 4)
+            if (Choise > 4)
             {
                return;
             }

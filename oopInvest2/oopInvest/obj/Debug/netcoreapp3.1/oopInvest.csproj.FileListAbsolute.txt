@@ -24,3 +24,17 @@ C:\Users\sergo\Desktop\хвосты\oopInvest — копия\oopInvest\obj\Debug
 C:\Users\sergo\Desktop\хвосты\oopInvest — копия\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.dll
 C:\Users\sergo\Desktop\хвосты\oopInvest — копия\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.pdb
 C:\Users\sergo\Desktop\хвосты\oopInvest — копия\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.genruntimeconfig.cache
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.exe
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.deps.json
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.runtimeconfig.json
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.runtimeconfig.dev.json
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.dll
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\bin\Debug\netcoreapp3.1\oopInvest.pdb
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.csproj.AssemblyReference.cache
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.AssemblyInfoInputs.cache
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.AssemblyInfo.cs
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.csproj.CoreCompileInputs.cache
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.dll
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.pdb
+C:\Users\sergo\KWorkFootball\oop\oopInvest2\oopInvest\obj\Debug\netcoreapp3.1\oopInvest.genruntimeconfig.cache
